@@ -43,6 +43,8 @@ let gmeet = (() => {
 
     return {
         exist(find_text) {
+            if(!find_text) find_text = ""
+
             const initialize_json = init().json()
             const initialize_chatbox = init().chatbox()
 

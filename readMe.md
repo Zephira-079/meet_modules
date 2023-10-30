@@ -1,3 +1,4 @@
+# <font color="red">DEPRECATED</font>
 # Some Function I Use In Gmeet (for school)
 - spaghetti code :)
 - vague variables :(
